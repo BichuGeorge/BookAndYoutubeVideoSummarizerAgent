@@ -1,0 +1,46 @@
+{
+  "Introduction": {
+    "summary": {
+      "id": "chatcmpl-BgDK2PfhHxRozgJqA1tbDQ6WakbKl",
+      "object": "chat.completion",
+      "created": 1749400686,
+      "model": "gpt-4.1-nano",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "Certainly! Here are concise points summarizing the 'Introduction' chapter for students:\n\n- The IT job market in 2025 is undergoing significant changes due to technological advancements.\n- Key emerging roles include software engineers, AI specialists, and cloud computing experts.\n- AI and automation are transforming job roles by displacing some jobs and creating new opportunities.\n- Remote and hybrid work models are becoming more common, impacting recruitment and retention strategies.\n- Skills in cloud computing, programming, and cybersecurity are increasingly important.\n- Continuous learning and adaptability are essential for success in the evolving IT landscape."
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 649,
+        "completion_tokens": 114,
+        "total_tokens": 763
+      }
+    },
+    "questions": {
+      "id": "chatcmpl-BgDK5zp2ueyVYe8ir3lpXchxsY0Zn",
+      "object": "chat.completion",
+      "created": 1749400689,
+      "model": "gpt-4.1-nano",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "Remember-Level Questions:\n1. What are three of the most in-demand IT roles in 2025 according to the chapter?\n2. According to the chapter, what is the salary range for AI specialists in 2025?\n\nUnderstand-Level Questions:\n1. How are AI and automation influencing the IT job market in 2025?\n2. Why is continuous learning emphasized as important for IT professionals in 2025?\n\nApply-Level Questions:\n1. If you are an aspiring IT professional, which skills should you focus on developing to remain competitive in 2025?\n2. How might a company leverage remote and hybrid work models to meet the increasing demand for IT roles?\n\nAnalyze-Level Questions:\n1. Analyze how the rise of AI specialists could impact traditional IT roles within organizations.\n2. What are the potential effects of automation displacing 85 million jobs but creating 97 million new roles in the IT sector?\n\nEvaluate-Level Questions:\n1. Evaluate the potential benefits and drawbacks of relying heavily on contract professionals to fill skill gaps in the IT industry.\n2. Assess the importance of cloud computing expertise versus AI specialization for future IT career growth in 2025.\n\nCreate-Level Questions:\n1. Design a training program aimed at equipping mid-career IT professionals with skills in AI and cloud computing to meet future job demands.\n2. Propose strategies that organizations can implement to adapt to the changing IT job landscape driven by AI, automation, and remote work trends."
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 696,
+        "completion_tokens": 290,
+        "total_tokens": 986
+      }
+    }
+  }
+}

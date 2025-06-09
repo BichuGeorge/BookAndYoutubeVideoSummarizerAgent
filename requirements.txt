@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+euriai
+pandas
+langchain
+fastmcp
+fitz
+youtube-transcript-api
+PyMuPDF
